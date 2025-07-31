@@ -48,7 +48,8 @@ Por enquanto, é só. Aguarde por mais novidades.
 
 ## Aplicação
 
-![Demonstração do projeto](assets/demo.mp4)
+https://github.com/user-attachments/assets/a5258c9a-6807-4583-b317-95521acb56be
+
 
 
 ## Tecnologias utilizadas
