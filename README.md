@@ -1,6 +1,6 @@
 <div align="center">
 
-![imagem capa](Literalua/src/img)
+![imagem capa](src/img)
 
 </div>
 
