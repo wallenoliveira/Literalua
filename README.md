@@ -1,6 +1,6 @@
 <div align="center">
 
-![imagem capa](src/img)
+![imagem capa](src/img/capa.png)
 
 </div>
 
