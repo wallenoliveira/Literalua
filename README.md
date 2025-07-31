@@ -1,6 +1,7 @@
 <div align="center">
 
-![imagem capa](/src/img/imagem-capa-Literalura.png)
+![imagem capa](/src/assets/capa.png)
+
 
 </div>
 
@@ -32,7 +33,7 @@ Projeto em desenvolvimento para o curso de Especialização em Back-End Alura ON
 
 <p align="justify">Este projeto consiste em um catálogo digital de livros, desenvolvido com o objetivo inicial de organizar e apresentar informações detalhadas sobre diversas obras literárias. A aplicação oferece uma interface intuitiva para a pesquisa e visualização de títulos, autores, Top 10 dos livros mais baixados. O banco de dados, configurado com PostgreSQL, armazena as informações de forma eficiente, permitindo um gerenciamento robusto dos dados. O trabalho demonstra o uso de conceitos de desenvolvimento de software e gerenciamento de banco de dados para criar uma solução prática e funcional. 
 E para proporcionar melhor experiência com os usuários, em breve disponibilizaremos a opção para efetuar o download do livro desejado.
-Por enquanto, é só. Aguardem por mais novidades.
+Por enquanto, é só. Aguarde por mais novidades.
 .</p>
 
 ## :hammer: Funcionalidades do projeto
@@ -42,11 +43,12 @@ Por enquanto, é só. Aguardem por mais novidades.
  - `funcionalidade 4:` Listar autores vivos em um determinado ano;
  - `funcionalidade 5:` Listar livros em um determinado idioma;
  - `funcionalidade 6:` Top 10 dos livros mais baixados;
- - `funcionalidade 7:` Buscar autor pelo nome.
+ - `funcionalidade 7:` Buscar autor pelo nome;
+ - `funcionalidade 8 ainda nao disponível:` "EM BREVE: DOWNLOADS DOS LIVROS DESEJADOS".
 
 ## Aplicação
 
-https://github.com/wallenoliveira/Progeto01ConversorDeMoedas/blob/main/conversorMoeda.gif
+![Demonstração do projeto](assets/demo.mp4)
 
 
 ## Tecnologias utilizadas
